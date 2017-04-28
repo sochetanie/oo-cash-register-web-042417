@@ -16,10 +16,6 @@ class CashRegister
     self.transactions = price * qty
   end
 
-  def transactions
-    @transactions
-  end
-
   def items
     @items
   end
